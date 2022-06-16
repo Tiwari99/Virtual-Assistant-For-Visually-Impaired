@@ -62,7 +62,7 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
+    git clone https://github.com/Tiwari99/Virtual-Assistant-For-Visually-Impaired.git
     cd Tiwari99
     pip install -r requirements.txt
  ```
